@@ -1,0 +1,68 @@
+/* 
+  LoginLocalizable.strings
+  Login
+
+  Created by COSME D ALVES SILVA on 15/7/2022.
+  
+*/
+
+//MARK: - Globals
+"done"="Selecionar";
+"cancel"="Cancelar";
+"saveButton"="Salvar";
+"nextButton"= "Próxima";
+
+
+"email"="Email";
+"password"="Senha";
+"passwordConfirm"="Confirme a Senha";
+"buttonOpen"="Entrar";
+"buttonRegister"="Registrar";
+"emailPlaceHolder"="Endereço de email para logar";
+"passwordPlaceHolder"="Digite sua senha";
+"passwordConfirmPlaceHolder"="Digite novamente sua senha";
+"RegisterTitle"="Registrar";
+"login"="Entrar";
+
+
+
+//MARK: - Profile Screen
+"profileTitle"="Meus Dados";
+"ageLabel"="Faixa etária";
+"ageTextField"="Selecione na lista uma faixa etaria";
+"genderLabel"="Gênero";
+"genderTextField"="Selecione o seu genero, se quiser";
+"cpf"="CPF";
+"cpfTextField"="Informe seu CPF";
+"phoneLabel"="Telefone";
+"phoneTextField"="Informe seu numero de telefone celular";
+"save"="Salvar";
+"selection"="Selecionar";
+"cancel"="Cancelar";
+"personalDetails"="Insira seus Dados";
+"agePlaceHolder"="Informe sua Idade";
+"genderPlaceHolder"="Informe seu Gênero";
+"CPFPlaceHolder"="Informe seu CPF";
+"phoneNumberPlaceHolder"="Telefone";
+
+
+"empty"="";
+"warningLabel"="senha não cumpre os parâmetros necessários";
+"error"="Error";
+"message"="Senha fora do Padrão";
+"ok"="Ok";
+
+//MARK: - Address Screen
+"addressTitle"="Meu endereço";
+"cepLabel"="CEP";
+"cepTextField"="Informe o cep";
+"cityLabel"="Cidade:";
+"cityTextField"="Seu cidade";
+"streetLabel"="Endereço:";
+"streetTextField"="Seu endereço";
+"numberLabel"="Número:";
+"numberTextField"="Seu Número";
+"neighborhoodLabel"="Bairro:";
+"neighborhoodTextField"="Seu Bairro";
+"stateLabel"="UF:";
+"stateTextField"="Estado";
